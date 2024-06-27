@@ -110,6 +110,6 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE
 
 # Contacto
 
-Desarrollado por [![Gatroxm](https://gatroxm.github.io/)]. Para más información, visita [![NestJS](https://nestjs.com/)].
+Desarrollado por [Gatroxm](https://gatroxm.github.io/). Para más información, visita [NestJS](https://nestjs.com/).
 
 Este `README.md` proporciona una visión clara del proyecto, instrucciones detalladas de instalación y uso, y una guía para los endpoints de la API.
